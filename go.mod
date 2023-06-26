@@ -1,3 +1,3 @@
-module github.com/bradfitz/gomemcache
+module github.com/smallfish/gomemcache2
 
 go 1.12
